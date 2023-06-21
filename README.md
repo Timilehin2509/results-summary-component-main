@@ -39,7 +39,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://github.com/Timilehin2509/results-summary-component-main](https://github.com/Timilehin2509/results-summary-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://timilehin2509.github.io/results-summary-component-main/](https://timilehin2509.github.io/results-summary-component-main/)
 
 ## My process
 
